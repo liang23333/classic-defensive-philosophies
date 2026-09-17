@@ -1,0 +1,199 @@
+{
+  "version": "1.0.0",
+  "generated_at": "2026-09-17",
+  "description": "Historical defensive sites, operational doctrines, commanders, and geographic coordinates verified via OpenStreetMap.",
+  "sites": [
+    {
+      "id": "ager-falernus",
+      "name": "Ager Falernus Bottleneck (Monte Massico Passes)",
+      "doctrine": "Fabian Strategy / Asymmetric Attrition",
+      "campaign": "Second Punic War (217 BC)",
+      "commander": "Quintus Fabius Maximus Verrucosus ('Cunctator')",
+      "location": {
+        "place": "Falciano del Massico, Campania",
+        "country": "Italy",
+        "latitude": 41.1651220,
+        "longitude": 13.9494528,
+        "osm_id": 41105,
+        "osm_type": "relation"
+      },
+      "operational_significance": "Fabius occupied the rocky heights of Mount Massico and fortified the narrow defiles of the Via Latina, trapping Hannibal Barca in the fertile plains of Campania. Hannibal escaped at night by driving 2,000 oxen with flaming torches tied to their horns up the ridges, distracting the Roman sentries."
+    },
+    {
+      "id": "thermopylae-pass",
+      "name": "Thermopylae Pass & Phocian Wall",
+      "doctrine": "Chokepoint / Natural Barrier Defense",
+      "campaign": "Greco-Persian Wars (480 BC)",
+      "commander": "King Leonidas I of Sparta",
+      "location": {
+        "place": "Thermopylae, Phthiotis",
+        "country": "Greece",
+        "latitude": 38.7956235,
+        "longitude": 22.5100841,
+        "osm_id": 597032209,
+        "osm_type": "way"
+      },
+      "operational_significance": "Constricted coastal pass bounded by sheer cliffs of Mount Kallidromo and the Malian Gulf. Leonidas rebuilt an ancient stone wall (Phocian Wall) and funneled Xerxes' numerically overwhelming forces into a narrow killing ground where Greek hoplite phalanxes held for three days until flanked via the mountain Anopaia path."
+    },
+    {
+      "id": "alesia-circumvallation",
+      "name": "Alesia Siege Lines (Mont Auxois)",
+      "doctrine": "Dual Circumvallation / Interior Lines Fortification",
+      "campaign": "Gallic Wars (52 BC)",
+      "commander": "Julius Caesar",
+      "location": {
+        "place": "Alise-Sainte-Reine, Côte-d'Or",
+        "country": "France",
+        "latitude": 47.5364014,
+        "longitude": 4.4915523,
+        "osm_id": 145317,
+        "osm_type": "relation"
+      },
+      "operational_significance": "Caesar constructed two concentric rings of fortifications: an inner 16 km circumvallation enclosing Vercingetorix's 80,000 Gallic warriors atop Mont Auxois, and an outer 21 km contravallation protecting the Roman besiegers from 250,000 Gallic relief troops, featuring hidden pits (lilia), trenches, towers, and mobile cavalry reserves."
+    },
+    {
+      "id": "hadrians-wall-housesteads",
+      "name": "Housesteads Roman Fort (Vercovicium) - Hadrian's Wall",
+      "doctrine": "Frontier Limes / Static Shield & Mobile Field Defense",
+      "campaign": "Roman Imperial Frontier Defense (122–410 AD)",
+      "commander": "Emperor Hadrian / Aulus Platorius Nepos",
+      "location": {
+        "place": "Bardon Mill, Hexham, Northumberland",
+        "country": "United Kingdom",
+        "latitude": 55.0132190,
+        "longitude": -2.3302287,
+        "osm_id": 1102700039,
+        "osm_type": "way"
+      },
+      "operational_significance": "Key auxiliary fort along the Whin Sill crags of Hadrian's Wall. Served as an outpost and intelligence center anchoring the northernmost fortified boundary of the Roman Empire, exemplifying the initial static cordon of Roman imperial defense."
+    },
+    {
+      "id": "citadelle-de-lille",
+      "name": "Citadel of Lille ('Queen of Citadels')",
+      "doctrine": "Bastion Trace / Vauban's Pré-Carré Dual Line",
+      "campaign": "Wars of Louis XIV (Constructed 1667–1670)",
+      "commander": "Sébastien Le Prestre de Vauban",
+      "location": {
+        "place": "Lille, Hauts-de-France",
+        "country": "France",
+        "latitude": 50.6413573,
+        "longitude": 3.0443862,
+        "osm_id": 1096436747,
+        "osm_type": "way"
+      },
+      "operational_significance": "The crowning achievement of Vauban's First System. A 5-bastion star fortress integrated into the city of Lille with advanced sluice-gates enabling defensive inundation of surrounding fields, forming the linchpin of France's fortified northern double frontier."
+    },
+    {
+      "id": "neuf-brisach",
+      "name": "Neuf-Brisach Octagonal Star Fortress",
+      "doctrine": "Vauban's Third Fortification System",
+      "campaign": "Post-Treaty of Ryswick Frontier Defense (Constructed 1699–1703)",
+      "commander": "Sébastien Le Prestre de Vauban",
+      "location": {
+        "place": "Neuf-Brisach, Alsace",
+        "country": "France",
+        "latitude": 48.0176804,
+        "longitude": 7.5282798,
+        "osm_id": 69279,
+        "osm_type": "relation"
+      },
+      "operational_significance": "Vauban's ultimate masterwork: an immaculate octagonal star fortress featuring a double enceinte, detached bastions, covered ways, and demi-lunes designed to eliminate all dead ground and resist prolonged siege artillery across the Rhine."
+    },
+    {
+      "id": "torres-vedras-sao-vicente",
+      "name": "Forte de São Vicente (Lines of Torres Vedras)",
+      "doctrine": "Layered Bastion & Strategic Scorched-Earth Barrier",
+      "campaign": "Peninsular War (1809–1810)",
+      "commander": "Arthur Wellesley (Viscount Wellington) & Col. Richard Fletcher",
+      "location": {
+        "place": "Torres Vedras, Lisbon District",
+        "country": "Portugal",
+        "latitude": 39.1006306,
+        "longitude": -9.2660211,
+        "osm_id": 27094233,
+        "osm_type": "way"
+      },
+      "operational_significance": "Main stronghold anchoring the First Line of Torres Vedras across the Lisbon Peninsula. Combined 152 redoubts, 600 artillery pieces, optical telegraph communication, and total scorched-earth evacuation in front, halting French Marshal Masséna's army and turning the tide of the Peninsular War."
+    },
+    {
+      "id": "borodino-battlefield",
+      "name": "Borodino Battlefield (Shevardino & Raevsky Redoubts)",
+      "doctrine": "Spatial Attrition / Strategic Defense in Depth",
+      "campaign": "Patriotic War of 1812 (Napoleon's Invasion of Russia)",
+      "commander": "General Mikhail Illarionovich Kutuzov",
+      "location": {
+        "place": "Borodino, Mozhaysky District, Moscow Oblast",
+        "country": "Russia",
+        "latitude": 55.5280334,
+        "longitude": 35.8198885,
+        "osm_id": 133485469,
+        "osm_type": "way"
+      },
+      "operational_significance": "Field of the bloodiest single-day battle of the Napoleonic Wars (Sept 7, 1812). Heavy earthen fortifications (Bagration Flèches and the Grand / Raevsky Redoubt) absorbed the full shock of the Grande Armée, preserving the Russian army's operational integrity while breaking Napoleon's offensive momentum."
+    },
+    {
+      "id": "hindenburg-line-bellicourt",
+      "name": "Bellicourt & Riqueval Tunnel (Hindenburg Line / Siegfriedstellung)",
+      "doctrine": "WWI Elastic Defense in Depth (Lossberg Doctrine)",
+      "campaign": "World War I Western Front (1917–1918)",
+      "commander": "Generals Paul von Hindenburg, Erich Ludendorff & Col. Fritz von Lossberg",
+      "location": {
+        "place": "Bellicourt, Aisne",
+        "country": "France",
+        "latitude": 49.9610878,
+        "longitude": 3.2342681,
+        "osm_id": 150374,
+        "osm_type": "relation"
+      },
+      "operational_significance": "The most fortified sector of the Siegfriedstellung. Utilized the 5.7 km subterranean Riqueval canal tunnel as an bombproof bunker for divisional reserves, linked to machine gun pillboxes, deep wire entanglements, and reverse-slope artillery zones designed to absorb allied barrages and unleash instant counter-attacks (*Gegenstöße*)."
+    },
+    {
+      "id": "maginot-line-hackenberg",
+      "name": "Gros Ouvrage Hackenberg (A19)",
+      "doctrine": "Continuous Subterranean Concrete & Steel Barrier",
+      "campaign": "Interwar French Defensive Doctrine / Battle of France (1930–1940)",
+      "commander": "Major Ebrard (Fortress Commander, 1940)",
+      "location": {
+        "place": "Veckring, Thionville, Moselle",
+        "country": "France",
+        "latitude": 49.3416996,
+        "longitude": 6.3655544,
+        "osm_id": 231599004,
+        "osm_type": "way"
+      },
+      "operational_significance": "The largest fortress (*gros ouvrage*) of the Maginot Line, spanning 19 combat blocks, 10 km of subterranean galleries, electric train transit, filtered overpressure air systems, and retractable armored turrets. Successfully repelled direct German assaults in June 1940 and remained undefeated until the national armistice."
+    },
+    {
+      "id": "maginot-line-schoenenbourg",
+      "name": "Ouvrage de Schoenenbourg (Alsace)",
+      "doctrine": "Subterranean Articulated Artillery Fortress",
+      "campaign": "Battle of France (1940)",
+      "commander": "Major Reynier",
+      "location": {
+        "place": "Hunspach / Schoenenbourg, Bas-Rhin, Alsace",
+        "country": "France",
+        "latitude": 48.9664987,
+        "longitude": 7.9123287,
+        "osm_id": 42596306,
+        "osm_type": "way"
+      },
+      "operational_significance": "The most heavily bombarded fortress of the Maginot Line. Fired over 17,000 artillery shells and absorbed 3,000+ aerial and heavy artillery impacts (including 420 mm Skoda howitzers and Stuka dive-bombers) with zero armor penetrations, demonstrating tactical fortress invulnerability."
+    },
+    {
+      "id": "kursk-prokhorovka",
+      "name": "Prokhorovka Defense Sector (Battle of Kursk)",
+      "doctrine": "Multi-Echelon Layered Anti-Tank Defense in Depth",
+      "campaign": "Operation Citadel / Eastern Front (July 1943)",
+      "commander": "Marshal Georgy Zhukov, Konstantin Rokossovsky & Nikolai Vatutin",
+      "location": {
+        "place": "Prokhorovka, Belgorod Oblast",
+        "country": "Russia",
+        "latitude": 51.0345463,
+        "longitude": 36.7324649,
+        "osm_id": 7790821,
+        "osm_type": "relation"
+      },
+      "operational_significance": "The culmination point of the southern Kursk salient. The Red Army established 8 defensive belts spanning up to 250 km in depth, protected by 2,400+ mines/km, fortified anti-tank ditch systems, and massed Pakfront artillery, exhausting the II SS Panzer Corps before releasing the 5th Guards Tank Army in a massive counter-strike."
+    }
+  ]
+}

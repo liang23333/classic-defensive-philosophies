@@ -1,0 +1,216 @@
+{
+  "type": "FeatureCollection",
+  "name": "HistoricalDefensivePositions",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ager-falernus",
+        "name": "Ager Falernus Bottleneck (Monte Massico)",
+        "doctrine": "Fabian Strategy / Asymmetric Attrition",
+        "campaign": "Second Punic War (217 BC)",
+        "commander": "Quintus Fabius Maximus Verrucosus",
+        "place": "Falciano del Massico, Campania, Italy",
+        "elevation_feature": "Monte Massico mountain pass",
+        "osm_id": 41105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.9494528, 41.1651220]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "thermopylae-pass",
+        "name": "Thermopylae Pass & Phocian Wall",
+        "doctrine": "Chokepoint / Natural Barrier Defense",
+        "campaign": "Greco-Persian Wars (480 BC)",
+        "commander": "King Leonidas I of Sparta",
+        "place": "Thermopylae, Phthiotis, Greece",
+        "elevation_feature": "Coastal pass between Mt. Kallidromo and Malian Gulf",
+        "osm_id": 597032209
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.5100841, 38.7956235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "alesia-circumvallation",
+        "name": "Alesia Siege Lines (Mont Auxois)",
+        "doctrine": "Dual Circumvallation / Interior Lines Fortification",
+        "campaign": "Gallic Wars (52 BC)",
+        "commander": "Julius Caesar",
+        "place": "Alise-Sainte-Reine, Côte-d'Or, France",
+        "elevation_feature": "Oppidum atop Mont Auxois plateau",
+        "osm_id": 145317
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.4915523, 47.5364014]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hadrians-wall-housesteads",
+        "name": "Housesteads Roman Fort (Vercovicium)",
+        "doctrine": "Frontier Limes / Static Shield & Mobile Field Reserves",
+        "campaign": "Roman Imperial Frontier Defense (122–410 AD)",
+        "commander": "Emperor Hadrian / Aulus Platorius Nepos",
+        "place": "Hexham, Northumberland, United Kingdom",
+        "elevation_feature": "Whin Sill escarpment",
+        "osm_id": 1102700039
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.3302287, 55.0132190]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "citadelle-de-lille",
+        "name": "Citadel of Lille ('Queen of Citadels')",
+        "doctrine": "Bastion Trace / Vauban's Pré-Carré",
+        "campaign": "Wars of Louis XIV (1667–1670)",
+        "commander": "Sébastien Le Prestre de Vauban",
+        "place": "Lille, Hauts-de-France, France",
+        "elevation_feature": "Deûle River lowlands with defensive flood sluices",
+        "osm_id": 1096436747
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0443862, 50.6413573]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "neuf-brisach",
+        "name": "Neuf-Brisach Octagonal Star Fortress",
+        "doctrine": "Vauban's Third Fortification System",
+        "campaign": "Rhenish Frontier Defense (1699–1703)",
+        "commander": "Sébastien Le Prestre de Vauban",
+        "place": "Neuf-Brisach, Alsace, France",
+        "elevation_feature": "Upper Rhine Plain bridgehead",
+        "osm_id": 69279
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5282798, 48.0176804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "torres-vedras-sao-vicente",
+        "name": "Forte de São Vicente (Lines of Torres Vedras)",
+        "doctrine": "Layered Bastion & Strategic Scorched-Earth Barrier",
+        "campaign": "Peninsular War (1809–1810)",
+        "commander": "Arthur Wellesley (Wellington) & Col. Richard Fletcher",
+        "place": "Torres Vedras, Lisbon, Portugal",
+        "elevation_feature": "Monte São Vicente dominating the Sizandro gorge",
+        "osm_id": 27094233
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.2660211, 39.1006306]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "borodino-battlefield",
+        "name": "Borodino Battlefield (Raevsky Redoubt)",
+        "doctrine": "Spatial Attrition / Strategic Defense in Depth",
+        "campaign": "Patriotic War of 1812",
+        "commander": "General Mikhail Illarionovich Kutuzov",
+        "place": "Borodino, Moscow Oblast, Russia",
+        "elevation_feature": "Rolling hills of the Kolocha River valley",
+        "osm_id": 133485469
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.8198885, 55.5280334]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hindenburg-line-bellicourt",
+        "name": "Bellicourt & Riqueval Tunnel (Hindenburg Line)",
+        "doctrine": "WWI Elastic Defense in Depth (Lossberg Doctrine)",
+        "campaign": "World War I Western Front (1917–1918)",
+        "commander": "Col. Fritz von Lossberg & Erich Ludendorff",
+        "place": "Bellicourt, Aisne, France",
+        "elevation_feature": "Subterranean canal cutting and reverse slope",
+        "osm_id": 150374
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.2342681, 49.9610878]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "maginot-line-hackenberg",
+        "name": "Gros Ouvrage Hackenberg (A19)",
+        "doctrine": "Continuous Subterranean Concrete & Steel Barrier",
+        "campaign": "Battle of France (1940)",
+        "commander": "Major Ebrard",
+        "place": "Veckring, Moselle, France",
+        "elevation_feature": "Hackenberg wooded ridge commanding Thionville corridor",
+        "osm_id": 231599004
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.3655544, 49.3416996]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "maginot-line-schoenenbourg",
+        "name": "Ouvrage de Schoenenbourg",
+        "doctrine": "Subterranean Articulated Artillery Fortress",
+        "campaign": "Battle of France (1940)",
+        "commander": "Major Reynier",
+        "place": "Hunspach / Schoenenbourg, Bas-Rhin, France",
+        "elevation_feature": "Northern Alsace ridge facing Bienwald forest",
+        "osm_id": 42596306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.9123287, 48.9664987]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kursk-prokhorovka",
+        "name": "Prokhorovka Sector (Battle of Kursk)",
+        "doctrine": "Multi-Echelon Layered Anti-Tank Defense in Depth",
+        "campaign": "Operation Citadel (1943)",
+        "commander": "Marshal Georgy Zhukov & Gen. Nikolai Vatutin",
+        "place": "Prokhorovka, Belgorod Oblast, Russia",
+        "elevation_feature": "Psel River valley, railway embankment, anti-tank ditch corridors",
+        "osm_id": 7790821
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.7324649, 51.0345463]
+      }
+    }
+  ]
+}
